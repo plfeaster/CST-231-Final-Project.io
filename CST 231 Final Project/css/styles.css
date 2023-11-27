@@ -1,0 +1,36 @@
+/*
+	Student's Name: Paul Feaster, Darrin Briscoe
+	File Name: styles.css
+	Date: 11/17/2023
+*/
+
+body {
+	font-family: 'Arial', sans-serif;
+	margin: 30px;
+}
+
+/* Style rule for header content */
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+/* Style rules for menu content */
+.menu-category {
+	margin-top: 30px;
+}
+.menu-item {
+	margin-bottom: 20px;
+}
+
+/* Style rules for footer content */
+footer {
+	margin: 30px;
+}
+
+.social {
+	display: block;
+	font-size: 0.65px;
+	color: black;
+	padding: 4%;
+}
